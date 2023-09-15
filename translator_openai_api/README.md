@@ -18,8 +18,8 @@ text = "Zdravo svete"
 target_language = "english"
 translation = translate_text(text, target_language)
 print(translation)
-
-Configuration
+'''
+#Configuration
 
     Python 3.7 or higher
     OpenAI API key
