@@ -15,4 +15,4 @@ Before using this script, ensure you have the following prerequisites installed:
   ```bash
   pip install selenium
 
-Replace `"your-username"`, `"your-password"`, and `"/path/to/your/download/directory"` with your actual Teamtailor login credentials and the desired download directory. This README provides comprehensive information on how to set up and use your PDF scraping script.
+Replace `"your-username"`, `"your-password"`, and `"/path/to/your/download/directory"` with your actual Teamtailor login credentials and the desired download directory.
