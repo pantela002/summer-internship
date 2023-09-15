@@ -1,7 +1,6 @@
-
 # PDF Text Highlighter and Redactor
 
-This is a Python application that allows you to highlight or redact text in PDF files. You can specify a search string and choose to either highlight or redact the matching text. The application supports processing individual PDF files or entire folders of PDF files.
+This is a Python application that allows you to highlight or redact text in PDF files. You can specify a search string and choose to either highlight or redact the matching text. The application supports processing individual PDF files or entire folders of PDF files. Additionally, it includes a GUI (Graphical User Interface) for easy interaction.
 
 ## Table of Contents
 
@@ -9,6 +8,7 @@ This is a Python application that allows you to highlight or redact text in PDF 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Using the GUI](#using-the-gui)
 - [Command Line Arguments](#command-line-arguments)
 - [Examples](#examples)
 - [Contributing](#contributing)
@@ -22,7 +22,8 @@ This is a Python application that allows you to highlight or redact text in PDF 
 - Specify search strings to find and act upon.
 - Choose between highlighting or redacting matching text.
 - Extract and display basic file information.
-
+- User-friendly GUI for easy interaction.
+- 
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
@@ -30,6 +31,7 @@ Before you begin, ensure you have the following installed:
 - Python 3.x
 - [PyMuPDF (MuPDF)](https://pypi.org/project/PyMuPDF/): A Python binding for MuPDF, used for working with PDF files.
 - [Pillow (PIL Fork)](https://pypi.org/project/Pillow/): A Python Imaging Library, used for image processing.
+- Tkinter: Python's standard GUI library.
 
 You can install the required Python packages using pip:
 
