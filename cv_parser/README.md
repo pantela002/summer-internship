@@ -35,3 +35,16 @@ You can install the required Python packages using pip:
 
 ```bash
 pip install PyMuPDF Pillow
+```
+
+
+# Instalation 
+git clone https://github.com/your-username/pdf-text-highlighter-redactor.git
+
+Navigate to the project directory:
+cd pdf-text-highlighter-redactor
+
+Run the application:
+python pdf_highlighter_redactor.py -i /path/to/your/input.pdf -a Highlight -s "Your Search String"
+
+
